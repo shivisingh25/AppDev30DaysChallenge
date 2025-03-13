@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/me"
+       />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Hello! I'm an enthusiastic developer keen to tackle new challenges and craft innovative solutions. My journey in tech began with a strong foundation in C and Python, and I'm currently expanding my horizons by diving into Java and app development.With proficiency in HTML, CSS, and JavaScript, I've developed a growing fascination for web technologies. In addition, my experience with Node.js, MongoDB, and Express.js equips me to handle both front-end and back-end development, making me a versatile asset on any team.As I continue on this learning journey, my aim is to make a positive impact through tech, whether it's enhancing user experience or streamlining complex processes. Please feel free to connect with me—let's build something amazing together!"
+            android:textSize="15sp" />
+
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/me"
+        />
+
+
+
+</LinearLayout>
