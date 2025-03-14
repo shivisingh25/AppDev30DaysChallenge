@@ -1,6 +1,6 @@
 # AppDev30DaysChallenge Playlist 🚀
 
-Welcome to the **AppDev30DaysChallenge** repository! 🎉 This repository is a comprehensive collection of concepts and projects I learned through the #30DaysAppDevChallenge playlist, created by [Saumya Ma'am](https://www.linkedin.com/in/saumya1singh/). 
+Welcome to the **AppDev30DaysChallenge** repository! 🎉 This repository is a comprehensive collection of concepts and projects I learned through the #30DaysAppDevChallenge [playlist](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8), created by [Saumya Ma'am](https://www.linkedin.com/in/saumya1singh/). 
 
 ## About the Playlist 📚
 
@@ -54,6 +54,9 @@ Here’s a list of all the concepts I learned throughout the 30 days:
 
 15. **List View**  
     Create efficient and scrollable lists for displaying data.
+
+16. **Recycler View**  
+    Creating efficient and dynamic lists with RecyclerView.
 
 ## Repository Contents 📂
 
