@@ -60,6 +60,10 @@ Here’s a list of all the concepts I learned throughout the 30 days:
 
 17. **API Integration**    
     Learn to fetch and display data from external APIs using libraries like Retrofit (for network requests) and Picasso (for loading and displaying images from URLs). These libraries simplify the process of           interacting with APIs and ensure efficient data handling in your app.
+
+18. **Notifications**
+    
+    Notifications are a key feature in Android apps that allow developers to send updates, alerts, or reminders to users, even when the app is not running in the foreground.
  
 ## Repository Contents 📂
 
