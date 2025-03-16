@@ -58,6 +58,9 @@ Here’s a list of all the concepts I learned throughout the 30 days:
 16. **Recycler View**  
     Creating efficient and dynamic lists with RecyclerView.
 
+17. **API Integration**    
+    Learn to fetch and display data from external APIs using libraries like Retrofit (for network requests) and Picasso (for loading and displaying images from URLs). These libraries simplify the process of           interacting with APIs and ensure efficient data handling in your app.
+ 
 ## Repository Contents 📂
 
 The repository contains code snippets, projects, and detailed examples for each of the above topics. Each folder is named after the concept for easy navigation.
